@@ -1,0 +1,99 @@
+{
+    "name": "Aneesh",
+    "email": "aneesh172.ant@gmail.com",
+    "subtitles": [
+        "Flutter Developer",
+  
+        "UI/UX Designer"
+    ],
+    "blackWhitePhotoURL": "assets/photos/blk&white.jpeg",
+    "coloredPhotoURL": "assets/photos/blk&white.jpeg",
+    "socialLinks": [
+        {
+            "platform": "facebook",
+            "url": "https://www.facebook.com/aneesh.aneeshanee.3"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://instagram.com/aneesh_bin_azeez"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/aneesh172"
+        },
+        {
+            "platform": "linkedin",
+            "url":   "https://linkedin.com/in/aneesh devala"
+        },
+        {
+            "platform": "github",
+            "url":   "https://github.com/aneeshdevala"
+        },
+        {
+            "platform": "medium",
+            "url":  "https://medium.com/@aneesh172.ant"
+        }
+    ],
+    "aboutMeHeadline": "I'm Aneesh, a Flutter developer and UI/UX Designer.",
+    "aboueMeDetails": "I'm a Fresh Msc  Graduate with Computer Science as Majors from Bharathiar University, Coimbatore. I have been developing mobile apps for over 7 months now. I also Completed Google Ui/Ux Certification and  helped to  them in launching their prototypes and got valuable learning experience. Currently working on a project its named Jobizy app",
+    "technologies": [
+        "Flutter",
+        "Dart",
+        "Java",
+        "C",
+        "C++"
+        
+    ],
+    "services": [
+        {
+            "icon": "assets/services/app.png",
+            "name": "Mobile App Development",
+            "description": "Android app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!"
+        },
+        {
+            "icon": "assets/services/ui.png",
+            "name": "UI/UX Designing",
+            "description": "Modern UI/UX Designing\n- Adobe XD\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!"
+        },
+     
+       
+        {
+            "icon": "assets/services/open.png",
+            "name": "Open Source - GitHub",
+            "description": "Open source GitHub Projects\n- Awesome README.md\n- Well documented\n- Header images and more...!"
+        }
+    ],
+    "hireMe": {
+        "whatsapp": "7598340172"
+    },
+    "projects": [
+        {
+            "title": "Musica Music Player",
+            "iconUrl": "https://play.google.com/store/apps/details?id=in.brototype.music_app&hl=en_IN&gl=US",
+            "bannerUrl": "assets/projects/Feuture grapic.png",
+            "description": "'Musica'It's an offline music player with basic features with the help of Flutter Its Available in Play Store now."
+        },
+        {
+            "title": "JobEzy",
+            "iconUrl": "https://github.com/aneeshdevala/JobEzy",
+            "bannerUrl":  "assets/projects/jobezy.png",
+            "description": "Application of JobEzy,Its helped to find the jobs,hiring new employees and its acts as a social media. Developed using Flutter"
+        
+        }
+        
+    ],
+    "contact": [
+        {
+            "param": "address",
+            "value": "Tamilnadu, India"
+        },
+        {
+            "param": "phone",
+            "value": "+91 7598340172"
+        },
+        {
+            "param": "email",
+            "value": "aneesh172.ant@gmail.com"
+        }
+    ]
+}

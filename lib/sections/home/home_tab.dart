@@ -19,7 +19,7 @@ class HomeTab extends StatelessWidget {
         children: [
           Positioned(
             bottom: 0,
-            right: 0,
+            right: 50,
             child: Opacity(
               opacity: 0.9,
               child: EntranceFader(

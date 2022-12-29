@@ -12,7 +12,7 @@ class StaticUtils {
   // photos
   static const String mobilePhoto = 'assets/photos/circular.png';
   static const String coloredPhoto = 'assets/photos/circulars.png';
-  static const String blackWhitePhoto = 'assets/photos/portfolio-image.jpg';
+  static const String blackWhitePhoto = 'assets/photos/portfolio-image.png';
 
   // work
   static const String colleg = 'assets/work/nilgiri_college_logo.png';
@@ -44,7 +44,7 @@ class StaticUtils {
   ];
 
   static const String resume =
-      'https://drive.google.com/file/d/1A1go2_3WmlRsJxox9XRxqiRW4SU6Pcyl/view?usp=share_link';
+      'https://drive.google.com/file/d/1r7DP6wi9JoToPeTEgPdY46WjiNPn__0o/view?usp=share_link';
 
   static const String gitHub = 'https://github.com/habeeb321';
 }
